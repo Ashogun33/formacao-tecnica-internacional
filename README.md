@@ -26,10 +26,15 @@ Desenvolver as competências técnicas, linguísticas e acadêmicas necessárias
 📅 Macrocronograma
 
 Fase	Período	Status
+
 Fase I – Preparação & Organização	Mai → Jul 2025	⬜
+
 Fase II – Inscrição & Certificação	Ago → Out 2025	⬜
+
 Fase III – Portfólio Técnico & Inglês	Nov 2025 → Abr 2026	⬜
+
 Fase IV – Finalização & Viagem	Mai → Jul 2026	⬜
+
 Fase V – Experiência Internacional & Difusão	Ago 2026 → Abr 2027	⬜
 
 
@@ -70,9 +75,9 @@ Fase V – Experiência Internacional & Difusão	Ago 2026 → Abr 2027	⬜
 
 Vandilson Alves de Jesus
 
-[Seu LinkedIn aqui]
-[Seu GitHub aqui]
-E-mail: [Seu e-mail profissional aqui]
+www.linkedin.com/in/ashogun33
+https://github.com/Ashogun33
+E-mail: ashogun33@gmail.com
 
 
 ✍️ Observação
