@@ -1,0 +1,18 @@
+Personal Statement – Vandilson Alves de Jesus
+
+Dear Mitacs Globalink Selection Committee,
+
+My name is Vandilson Alves de Jesus, and I am currently a second-semester undergraduate student in Software Engineering at [Name of Your University] in Brazil. I also hold a Bachelor's degree in Mathematics. With a strong academic background and a deep passion for technology, I am eager to participate in the Mitacs Globalink Research Internship to further expand my technical expertise, gain valuable international experience, and contribute to meaningful research projects.
+
+Coming from a country with significant socioeconomic disparities, I have witnessed firsthand the challenges faced by micro-entrepreneurs and small communities, especially in the biodiverse yet underserved regions of Brazil. This reality has fueled my determination to pursue a career in technology, where I believe cloud computing, artificial intelligence, and information systems can drive transformative social and economic development.
+
+Throughout my academic and professional journey, I have dedicated myself to building a solid foundation in programming (C, C++, Python), Linux system administration, cloud computing (AWS fundamentals), DevOps principles, and algorithm design. In addition, my experience in public procurement systems, civil defense logistics, supply chain management for pre-hospital care, and small business management has strengthened my ability to organize projects, work collaboratively, and solve real-world problems.
+
+By participating in the Mitacs Globalink Research Internship, I aim to enhance my knowledge through hands-on research, deepen my understanding of international technological practices, and develop the skills necessary to innovate and contribute solutions that can empower local communities. I am particularly interested in exploring research areas related to cloud computing, software engineering, and artificial intelligence applied to social innovation.
+
+I am committed to making the most of this opportunity, both academically and personally. I am confident that the multicultural environment, high-level research supervision, and dynamic academic setting in Canada will enable me to broaden my horizons, strengthen my academic journey, and prepare me to contribute positively to the development of my region and beyond.
+
+Thank you for considering my application. I am excited about the possibility of joining the Mitacs Globalink community and embarking on this life-changing journey.
+
+Sincerely,
+Vandilson Alves de Jesus

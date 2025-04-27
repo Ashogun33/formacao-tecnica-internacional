@@ -46,7 +46,7 @@
 <summary>Fase I - Preparação & Organização (Mai → Jul 2025)</summary>
 
 - [ ] Solicitar histórico escolar
-- [x] Solicitar passaporte
+- [ ] Solicitar passaporte
 - [ ] Revisar CV & Carta de Motivação
 - [ ] Selecionar professores para recomendação
 - [ ] Iniciar cursos Google Cloud & Linux Essentials
@@ -92,10 +92,10 @@
 ## 5. Tarefas Iniciais (Sprint 0)
 
 - [x] Criar diretório `carreira/`
-- [x] Iniciar repositório Git
+- [ ] Iniciar repositório Git
 - [ ] Adicionar TOC automática
 - [ ] Solicitar histórico escolar
-- [x] Agendar passaporte
+- [ ] Agendar passaporte
 - [ ] Matricular-se no "Linux Essentials" (NDG/edX)
 - [ ] Matricular-se no "Google Cloud Skills Boost"
 
