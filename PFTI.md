@@ -49,7 +49,7 @@
 - [x] Solicitar passaporte
 - [ ] Revisar CV & Carta de Motivação
 - [ ] Selecionar professores para recomendação
-- [ ] Iniciar cursos Google Cloud & Linux Essentials
+- [x] Iniciar cursos Google Cloud & Linux Essentials
 
 </details>
 
